@@ -50,5 +50,6 @@ class Question {
       contestant.update();
       contestant.updateCount(contestantCount);
     });
+    
   }
 }
